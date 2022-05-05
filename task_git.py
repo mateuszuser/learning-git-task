@@ -1,0 +1,1 @@
+dict_of_products = {"piekarnia": ["chleb", "bułki", "paczki"], "warzywniak": ["marchew", "seler", "rukola"]}
